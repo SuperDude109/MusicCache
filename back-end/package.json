@@ -1,0 +1,11 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "this is where the music gets cached",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run windowsDev"
+  },
+  "author": "Anthony Fine",
+  "license": "ISC"
+}
